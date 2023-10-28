@@ -1,0 +1,22 @@
+{
+	"my-squad": "La mia Squadra",
+	"find": "Trova",
+	"create-my-squad": "Crea Squadra",
+	"not-in-any-squad": "Non fai parte di nessuna squadra!",
+	"private_desc": "Metti la tua squadra solo su invito",
+	"private": "Privata",
+	"join-a-public-squad": "Entra in una squadra pubblica",
+	"full": "Pieno",
+	"join": "Entra",
+	"Members": "Membri",
+	"kick": "Espelli",
+	"leave": "Esci",
+	"add": "Aggiungi",
+	"you": "Tu",
+	"delete": "Elimina",
+	"delete_desc": "Elimina Squadra",
+	"public-squads": "Squadre Pubblica",
+	"squad-of-x": "{{name}} squadra",
+	"squad-desc-x": "{{amount}}/{{limit}} membri",
+	"settings": "Impostazioni"
+}

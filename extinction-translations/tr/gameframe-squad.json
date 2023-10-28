@@ -1,0 +1,22 @@
+{
+	"my-squad": "Takımım",
+	"find": "Bul",
+	"create-my-squad": "Takım Oluştur",
+	"not-in-any-squad": "Herhangi bir takımın parçası değilsin!",
+	"private_desc": "Sadece davet ile girişleri aktif et",
+	"private": "Özel",
+	"join-a-public-squad": "Herkese açık takıma katıl",
+	"full": "Dolu",
+	"join": "Katıl",
+	"Members": "Üyeler",
+	"kick": "At",
+	"leave": "Ayrıl",
+	"add": "Ekle",
+	"you": "Sen",
+	"delete": "Sil",
+	"delete_desc": "Takımı sil",
+	"public-squads": "Herkese açık takım",
+	"squad-of-x": "{{name}} Takımı",
+	"squad-desc-x": "{{amount}}/{{limit}} Üyeler",
+	"settings": "Ayarlar"
+}

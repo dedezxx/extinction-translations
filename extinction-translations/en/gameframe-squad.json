@@ -1,0 +1,22 @@
+{
+	"my-squad": "My Squad",
+	"find": "Find",
+	"create-my-squad": "Create my squad",
+	"not-in-any-squad": "You are not part of any squad!",
+	"private_desc": "Set your squad invitation only",
+	"private": "Private",
+	"join-a-public-squad": "Join a public squad",
+	"full": "Full",
+	"join": "Join",
+	"Members": "Members",
+	"kick": "Kick",
+	"leave": "Leave",
+	"add": "Add",
+	"you": "You",
+	"delete": "Delete",
+	"delete_desc": "Delete your squad",
+	"public-squads": "Public squads",
+	"squad-of-x": "{{name}}'s squad",
+	"squad-desc-x": "{{amount}}/{{limit}} members",
+	"settings": "settings"
+}

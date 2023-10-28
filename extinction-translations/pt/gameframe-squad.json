@@ -1,0 +1,22 @@
+{
+	"my-squad": "O Meu Esquadrão",
+	"find": "Procurar",
+	"create-my-squad": "Criar o meu Esquadrão",
+	"not-in-any-squad": "Não fazes parte de nenhum Esquadrão!",
+	"private_desc": "Apenas por Convite.",
+	"private": "Privado",
+	"join-a-public-squad": "Juntar-se a um Esquadrão Público.",
+	"full": "Cheio",
+	"join": "Juntar",
+	"Members": "Membros",
+	"kick": "Expulsar",
+	"leave": "Sair",
+	"add": "Adicionar",
+	"you": "Tu",
+	"delete": "Apagar",
+	"delete_desc": "Apagar o teu Esquadrão",
+	"public-squads": "Esquadrões Públicos",
+	"squad-of-x": "Esquadrão do/a {{name}}",
+	"squad-desc-x": "{{amount}}/{{limit}} membros",
+	"settings": "Definições"
+}

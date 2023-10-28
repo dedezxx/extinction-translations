@@ -1,0 +1,17 @@
+{
+	"killed_players_stats": "Jogadores Mortos",
+	"killed_zombies_stats": "Zombies Mortos",
+	"player_deaths": "Mortes",
+	"leaderboard": "Ranking",
+	"killed_players_redzone_stats": "Jogadores Mortos (Redzone)",
+	"killed_players_darkzone_stats": "Jogadores Mortos (Darkzone)",
+	"killed_zombies_redzone_stats": "Zombies Mortos (Redzone)",
+	"killed_zombies_darkzone_stats": "Zombies Mortos (Darkzone)",
+	"position": "Rank",
+	"name": "Nome",
+	"id": "ID",
+	"total": "Total",
+	"crew": "Crew",
+	"country": "País",
+	"none": "Nenhum"
+}

@@ -1,0 +1,19 @@
+{
+	"xp-booster": "XP Yükseltici",
+	"player": "Oyuncu",
+	"crew": "Crew",
+	"server": "Sunucu",
+	"dont-have-any": "Herhangi bir {{type}} sahip değilsin.",
+	"send-gcoins-conformation": "{{gcoins}} Adet GCoins'i {{fivemId}} FiveM ID'li oyuncuya gönderiyorsunuz.",
+	"click-again-to-send": "Göndermek istediğinizi onaylamak için lütfen tekrar tıklayın {{gcoins}} GCoins'i {{fivemId}} FiveM ID'li hesaba.",
+	"validate-transaction": "İşlemi doğrula",
+	"FiveM ID to send to": "Göndermek için FiveM ID",
+	"GCoins to send": "GCoins Gönderilecek",
+	"send-gcoins": "GCoins Gönder",
+	"transaction-history": "İşlem Geçmişi",
+	"transactions": "İşlemler",
+	"boosters": "Güçlendiriciler",
+	"weapon skins": "Silah görünümleri",
+	"profile": "Profil",
+	"gcoins": "GCoins"
+}

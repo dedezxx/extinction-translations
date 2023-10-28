@@ -1,0 +1,17 @@
+{
+	"killed_players_stats": "Öldürülen oyuncular",
+	"killed_zombies_stats": "Öldürülen Zombiler",
+	"player_deaths": "Ölümler",
+	"leaderboard": "Sıralama",
+	"killed_players_redzone_stats": "Redzone'da öldürülen oyuncular",
+	"killed_players_darkzone_stats": "Darkzone'da öldürülen oyuncular",
+	"killed_zombies_redzone_stats": "Redzone'da öldürülen zombiler",
+	"killed_zombies_darkzone_stats": "Darkzone'da öldürülen zombiler",
+	"position": "Rank",
+	"name": "İsim",
+	"id": "ID",
+	"total": "Toplam",
+	"crew": "Crew",
+	"country": "Ülke",
+	"none": "None"
+}

@@ -1,0 +1,20 @@
+{
+	"killed_players_stats": "Killed players",
+	"killed_zombies_stats": "Killed zombies",
+	"player_deaths": "Deaths",
+	"leaderboard": "Leaderboard",
+	"killed_players_redzone_stats": "Killed players in redzone",
+	"killed_players_darkzone_stats": "Killed players in darkzone",
+	"killed_zombies_redzone_stats": "Killed zombies in redzone",
+	"killed_zombies_darkzone_stats": "Killed zombies in darkzone",
+	"position": "Rank",
+	"name": "Name",
+	"id": "ID",
+	"total": "Total",
+	"crew": "Crew",
+	"country": "Country",
+	"none": "None",
+	"extinction_points_stats": "Extinction Points",
+	"top-by-ext-points-pl": "Top player by Extinction points",
+	"top-by-ext-points-cr": "Top crew by Extinction points"
+}

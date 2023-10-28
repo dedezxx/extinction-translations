@@ -1,0 +1,14 @@
+{
+    "create-an-offer": "Teklif Oluşturun",
+    "select-an-item": "Bir eşya seçin",
+    "new-auction": "Yeni teklif",
+    "my-auctions": "Tekliflerim",
+    "auction-buy-help": "Eşyayı satmak/satın almak için çift tıklayın.",
+	"claim-my-sales": "Satışlarımı Topla",
+	"Offers": "Teklifler",
+	"offer-stats": "Teklif istatistikleri",
+	"history": "{{itemName}} Geçmişi",
+	"price-history": "Fiyat geçmişi",
+	"view-graph": "Grafiği görüntüle",
+	"delete-all-sell-offers": "Tüm satış tekliflerini sil"
+}
